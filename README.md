@@ -1,6 +1,9 @@
 ### Fork
 fork from [leavjenn/SmoothDateRangePicker](https://github.com/leavjenn/SmoothDateRangePicker),change dialog to support package.
 
+use jitpack to download this fork lib.
+[![](https://jitpack.io/v/qiyulan/SmoothDateRangePicker.svg)](https://jitpack.io/#qiyulan/SmoothDateRangePicker)
+
 # SmoothDateRangePicker
 Smooth Date Range Picker is an android widget for selecting date range quickly and easily, following Material Design principle. This library is based on [datetimepicker from Android frameworks](https://android.googlesource.com/platform/frameworks/opt/datetimepicker/) and [Material DateTime Picker by wdullaer](https://github.com/wdullaer/MaterialDateTimePicker).
 
